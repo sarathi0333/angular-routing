@@ -1,7 +1,7 @@
 {
   "name": "angular-routing",
   "version": "0.0.0",
-   "main": "src/electron-starter.js",
+  "main": "src/electron-starter.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
