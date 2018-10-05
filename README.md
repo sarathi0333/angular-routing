@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 sudo npm install electron-packager -g --unsafe-perm=true --allow-root
+sudo npm install electron -g --unsafe-perm=true --allow-root
+sudo npm install electron-installer-dmg -g --unsafe-perm=true --allow-root
