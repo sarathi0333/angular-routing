@@ -4,11 +4,12 @@ import { SettingsComponent } from './settings/settings.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { ProductsComponent } from './products/products.component';
 import { RouterModule } from '@angular/router';
+import { TitleComponent } from '../components/title/title.component';
 
 @NgModule({
   imports: [
     CommonModule, RouterModule
   ],
-  declarations: [SettingsComponent, DashboardComponent, ProductsComponent]
+  declarations: [SettingsComponent, DashboardComponent, ProductsComponent, TitleComponent]
 })
 export class HomeModule { }
