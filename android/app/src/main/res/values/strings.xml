@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Angular Routing</string>
+    <string name="title_activity_main">Angular Routing</string>
+    <string name="package_name">com.angularrouting.app</string>
+    <string name="fileprovider_authority">com.angularrouting.app.fileprovider</string>
+    <string name="custom_url_scheme">com.angularrouting.app</string>
+</resources>

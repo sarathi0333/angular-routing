@@ -1,0 +1,6 @@
+{
+  "appId": "com.angularrouting.app",
+  "appName": "Angular Routing",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
